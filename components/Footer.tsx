@@ -47,7 +47,7 @@ export const Footer: React.FC = () => {
             <h3 className="text-sm font-semibold text-white uppercase tracking-wider mb-4">Kontakt</h3>
             <ul className="space-y-2 text-sm">
               <li className="flex items-center"><Mail className="w-4 h-4 mr-2" /> kontakt@e-technik-jobs.de</li>
-              <li className="flex items-center"><Phone className="w-4 h-4 mr-2" /> +49 (0) 30 12345678</li>
+              <li className="flex items-center"><Phone className="w-4 h-4 mr-2" /> +49 30 403 6654 32</li>
               <li className="flex items-center"><MapPin className="w-4 h-4 mr-2" /> Voltastraße 5, Berlin</li>
             </ul>
           </div>
