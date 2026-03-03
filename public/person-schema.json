@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Thomas Sander",
+  "url": "https://elektrotechnik-stellenangebote.de/autor/thomas-sander",
+  "jobTitle": "Gruender & Geschaeftsfuehrer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "elektrotechnik-stellenangebote.de",
+    "url": "https://elektrotechnik-stellenangebote.de"
+  },
+  "description": "Gruender von elektrotechnik-stellenangebote.de - spezialisiertes Jobportal fuer Elektrotechnik-Stellenangebote.",
+  "knowsAbout": [
+    "Elektrotechnik",
+    "Personalwesen",
+    "Recruiting",
+    "Jobportale"
+  ]
+}

@@ -1,0 +1,19 @@
+# HR-UPDATER: v1.0
+# elektrotechnik-stellenangebote.de - Elektrotechnik Stellenangebote
+
+> elektrotechnik-stellenangebote.de ist ein spezialisiertes Jobportal fuer Elektrotechnik-Stellenangebote in Deutschland, Oesterreich und der Schweiz.
+
+## Ueber uns
+- Spezialisiertes Jobportal fuer Elektrotechnik
+- Kostenlose Stellensuche fuer Bewerber
+- Gezielte Reichweite fuer Arbeitgeber
+
+## Kontakt
+- Website: https://elektrotechnik-stellenangebote.de
+- Arbeitgeber-Kontakt: https://elektrotechnik-stellenangebote.de/kontakt-arbeitgeber
+- Bewerber-Kontakt: https://elektrotechnik-stellenangebote.de/kontakt-bewerber
+
+## Inhalte
+- Aktuelle Elektrotechnik-Stellenangebote
+- Karriere-Ratgeber fuer Elektrotechnik
+- Gehaltsvergleiche und Brancheninformationen
