@@ -127,58 +127,253 @@ export const FAQ_ITEMS: FaqItem[] = [
 
 export const MOCK_JOBS = [
   {
-    id: "1",
-    title: "SPS-Programmierer (m/w/d)",
-    company: "AutoTech Solutions GmbH",
-    location: "Stuttgart",
-    type: "Vollzeit",
-    category: "Automatisierung",
-    salaryRange: "65.000 - 85.000 €",
-    postedDate: "2023-10-24",
-    tags: ["Siemens TIA", "Reisebereitschaft", "Automotive"]
+    id: '1',
+    title: 'Techniker Elektrotechnik (m/w/d)',
+    company: 'Hellma Materials GmbH',
+    location: 'Jena',
+    type: 'Vollzeit',
+    category: 'Industriemeister/in - Elektrotechnik',
+    tags: ['Industriemeister/in - Elektrotechnik'],
+    postedDate: '2026-03-04'
   },
   {
-    id: "2",
-    title: "Elektroingenieur Energieverteilung",
-    company: "Stadtwerke Kraft & Licht",
-    location: "Hamburg",
-    type: "Vollzeit",
-    category: "Ingenieurwesen",
-    salaryRange: "70.000 - 90.000 €",
-    postedDate: "2023-10-22",
-    tags: ["Mittelspannung", "Netzplanung", "Öffentlicher Dienst"]
+    id: '2',
+    title: 'Konstrukteur (m/w/d) Elektrotechnik',
+    company: 'Synergie Pers. Solutions GmbH',
+    location: 'Hannover',
+    type: 'Vollzeit',
+    category: 'Konstrukteur/in - Elektrotechnik',
+    tags: ['Konstrukteur/in - Elektrotechnik'],
+    postedDate: '2026-03-04'
   },
   {
-    id: "3",
-    title: "Elektroniker für Betriebstechnik",
-    company: "ChemPharm AG",
-    location: "Ludwigshafen",
-    type: "Schichtarbeit",
-    category: "Handwerk",
-    salaryRange: "55.000 € + Zulagen",
-    postedDate: "2023-10-20",
-    tags: ["Wartung", "Instandhaltung", "IG Chemie Tarif"]
+    id: '3',
+    title: 'Produktentwickler Elektrotechnik (m/w/d)',
+    company: 'OG Recruitment S.à r.l.',
+    location: 'Weiswampach',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-04'
   },
   {
-    id: "4",
-    title: "Junior Entwickler Embedded Systems",
-    company: "IoT Innovations KG",
-    location: "München",
-    type: "Vollzeit",
-    category: "IT & Software",
-    salaryRange: "58.000 - 65.000 €",
-    postedDate: "2023-10-25",
-    tags: ["C/C++", "Microcontroller", "Englisch"]
+    id: '4',
+    title: 'Systemingenieur Elektrotechnik (w/m/d)',
+    company: 'Brunel GmbH',
+    location: 'Bremen',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-03'
   },
   {
-    id: "5",
-    title: "Bauleiter Elektrotechnik (TGA)",
-    company: "BauVision Gruppe",
-    location: "Berlin",
-    type: "Vollzeit",
-    category: "Ingenieurwesen",
-    salaryRange: "75.000 € + PKW",
-    postedDate: "2023-10-18",
-    tags: ["VOB", "Bauleitung", "Großprojekte"]
+    id: '5',
+    title: 'Fachplanung Elektrotechnik (m/w/d)',
+    company: 'Ingenieurbüro Zammit GmbH',
+    location: 'Dresden',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-03'
+  },
+  {
+    id: '6',
+    title: 'Servicetechniker Elektrotechnik (m/w/d)',
+    company: 'BAUER Elektroanlagen',
+    location: 'Neu-Isenburg',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-03'
+  },
+  {
+    id: '7',
+    title: 'Elektrotechnik-Ingenieur (w/m/d)',
+    company: 'Vermögen und Bau Baden-Württemberg, Betriebsleitung',
+    location: 'Ulm, Donau',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-03'
+  },
+  {
+    id: '8',
+    title: 'Projektingenieur Elektrotechnik (m/w/d)',
+    company: 'AKN Eisenbahn GmbH',
+    location: 'Kaltenkirchen, Holstein',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-03'
+  },
+  {
+    id: '9',
+    title: 'Konstrukteur (m/w/d) Elektrotechnik',
+    company: 'TROESTER GmbH & Co. KG',
+    location: 'Hannover',
+    type: 'Vollzeit',
+    category: 'Technische/r Zeichner/in - Elektrotechnik',
+    tags: ['Technische/r Zeichner/in - Elektrotechnik'],
+    postedDate: '2026-03-03'
+  },
+  {
+    id: '10',
+    title: 'Projektleiter Elektrotechnik (m/w/d)',
+    company: 'FERCHAU GmbH Niederlassung Hamburg-City',
+    location: 'Hamburg',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-03'
+  },
+  {
+    id: '11',
+    title: 'Technische/r Zeichner/in - Elektrotechnik',
+    company: 'EQUANS Gebäudetechnik GmbH',
+    location: 'Wien,Simmering',
+    type: 'Vollzeit',
+    category: 'Technische/r Zeichner/in - Elektrotechnik',
+    tags: ['Technische/r Zeichner/in - Elektrotechnik'],
+    postedDate: '2026-03-03'
+  },
+  {
+    id: '12',
+    title: 'Projektmanager Elektrotechnik (m/w/d)',
+    company: 'Envi Con Engineering GmbH',
+    location: 'Würzburg',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '13',
+    title: 'Prüfer Elektrotechnik (m/w/d)',
+    company: 'Hays Professional Solutions GmbH Standort Frankfurt',
+    location: 'Frankfurt am Main',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '14',
+    title: 'Ingenieur Elektrotechnik (m/w/d)',
+    company: 'FERCHAU GmbH Niederlassung München Mobility',
+    location: 'Landshut, Isar',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '15',
+    title: 'Ingenieur Elektrotechnik (m/w/d)',
+    company: 'FERCHAU GmbH Niederlassung Osnabrück',
+    location: 'Meppen',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '16',
+    title: 'Ingenieur Elektrotechnik (m/w/d)',
+    company: 'FERCHAU GmbH Niederlassung Osnabrück',
+    location: 'Cloppenburg',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '17',
+    title: 'Ingenieur Elektrotechnik (m/w/d)',
+    company: 'FERCHAU GmbH Niederlassung Hannover',
+    location: 'Hannover',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '18',
+    title: 'Projektingenieur Elektrotechnik (m/w/d)',
+    company: 'FERCHAU GmbH Niederlassung Hannover',
+    location: 'Hannover',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '19',
+    title: 'Projektingenieur Elektrotechnik (m/w/d)',
+    company: 'Hays Professional Solutions GmbH',
+    location: 'Leverkusen',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '20',
+    title: 'Detailplaner Elektrotechnik (m/w/d)',
+    company: 'FERCHAU GmbH Niederlassung Hannover',
+    location: 'Hannover',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '21',
+    title: 'Ingenieur (m/w/d) Elektrotechnik',
+    company: 'FERCHAU GmbH Niederlassung Saarbrücken',
+    location: 'Tholey',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '22',
+    title: 'Projektleiter Elektrotechnik (m/w/d)',
+    company: 'FERCHAU GmbH Niederlassung Frankfurt',
+    location: 'Karlstein am Main',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '23',
+    title: 'Ingenieurin*in Elektrotechnik',
+    company: 'Wirtschaftsbetriebe Duisburg - AöR',
+    location: 'Duisburg',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '24',
+    title: 'Ingenieur/in (m/w/d) Elektrotechnik',
+    company: 'Staatsbetrieb Sächsisches Immobilien- und Baumanagement',
+    location: 'Leipzig',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
+  },
+  {
+    id: '25',
+    title: 'Ingenieurin / Ingenieur Elektrotechnik (m/w/d)',
+    company: 'Staatsbetrieb Sächsisches Immobilien- und Baumanagement',
+    location: 'Dresden',
+    type: 'Vollzeit',
+    category: 'Ingenieur/in - Elektrotechnik',
+    tags: ['Ingenieur/in - Elektrotechnik'],
+    postedDate: '2026-03-02'
   }
 ];
