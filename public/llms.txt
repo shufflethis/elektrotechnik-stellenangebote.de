@@ -1,19 +1,55 @@
 # HR-UPDATER: v1.0
 # elektrotechnik-stellenangebote.de - Elektrotechnik Stellenangebote
 
-> elektrotechnik-stellenangebote.de ist ein spezialisiertes Jobportal fuer Elektrotechnik-Stellenangebote in Deutschland, Oesterreich und der Schweiz.
+> elektrotechnik-stellenangebote.de ist ein spezialisiertes Jobportal fuer Elektrotechnik-Stellenangebote in Deutschland, Oesterreich und der Schweiz. Betrieben von der Social Media Venture GmbH, Berlin.
 
 ## Ueber uns
-- Spezialisiertes Jobportal fuer Elektrotechnik
+- Spezialisiertes Jobportal fuer Elektrotechnik, Automatisierung und Energietechnik
 - Kostenlose Stellensuche fuer Bewerber
 - Gezielte Reichweite fuer Arbeitgeber
+- Betreiber: Social Media Venture GmbH, Schliemannstrasse 23, 10437 Berlin
+- Geschaeftsfuehrer: Thomas Sander
+
+## Zielgruppen
+- Elektroingenieure (B.Sc. / M.Sc.)
+- Elektroniker und Mechatroniker
+- Staatlich gepruefte Techniker Elektrotechnik
+- SPS-Programmierer und Automatisierungstechniker
+- Projektleiter und Fachplaner Elektrotechnik
+- Servicetechniker Elektrotechnik
+- Arbeitgeber aus der Elektrotechnik-Branche
+
+## Branchen-Schwerpunkte
+- Automatisierungstechnik (SPS, Prozessleittechnik)
+- Energietechnik und Erneuerbare Energien
+- Gebaeudetechnik (TGA, KNX, Smart Home)
+- Elektromobilitaet und Automotive
+- Schaltschrankbau und Anlagenbau
+- Embedded Systems und Hardware-Entwicklung
+
+## Regionale Abdeckung
+- Deutschland: Berlin, Hamburg, Muenchen, Koeln, Frankfurt, Stuttgart, Duesseldorf, Leipzig, Dresden, Hannover, Nuernberg, Bremen, Dortmund, Essen und weitere
+- Oesterreich: Wien, Graz, Linz
+- Schweiz: Zuerich, Basel, Bern
 
 ## Kontakt
 - Website: https://elektrotechnik-stellenangebote.de
-- Arbeitgeber-Kontakt: https://elektrotechnik-stellenangebote.de/kontakt-arbeitgeber
-- Bewerber-Kontakt: https://elektrotechnik-stellenangebote.de/kontakt-bewerber
+- E-Mail: info@socialmediaventure.com
+- Telefon: +49 30 959 988 700
+- Adresse: Schliemannstrasse 23, 10437 Berlin
+
+## Seiten
+- Startseite: https://elektrotechnik-stellenangebote.de/
+- Fuer Bewerber: https://elektrotechnik-stellenangebote.de/#/bewerber
+- Fuer Arbeitgeber: https://elektrotechnik-stellenangebote.de/#/arbeitgeber
+- Brancheninfos: https://elektrotechnik-stellenangebote.de/#/branche
+- Autor: https://elektrotechnik-stellenangebote.de/#/autor/thomas-sander
+- Impressum: https://elektrotechnik-stellenangebote.de/#/impressum
+- Datenschutz: https://elektrotechnik-stellenangebote.de/#/datenschutz
 
 ## Inhalte
-- Aktuelle Elektrotechnik-Stellenangebote
-- Karriere-Ratgeber fuer Elektrotechnik
+- Aktuelle Elektrotechnik-Stellenangebote (taeglich aktualisiert)
+- Karriere-Ratgeber fuer Elektrotechnik-Fachkraefte
 - Gehaltsvergleiche und Brancheninformationen
+- FAQ fuer Bewerber und Arbeitgeber
+- Regionale Job-Uebersichten fuer deutsche Grossstaedte

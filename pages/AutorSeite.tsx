@@ -18,7 +18,7 @@ const AutorSeite: React.FC = () => {
         },
         description: 'HR-Tech-Experte und Gründer spezialisierter Jobportale für Fachkräfte in Deutschland.',
         knowsAbout: ['HR-Tech', 'Recruiting', 'Jobportale', 'Elektrotechnik', 'Personalwesen'],
-        sameAs: ['https://www.linkedin.com/in/thomas-sander-smv/'],
+        sameAs: ['https://de.linkedin.com/in/thomas-sander-520676303'],
       }) }} />
 
       <div className="bg-slate-50 py-16 md:py-24">
@@ -80,9 +80,9 @@ const AutorSeite: React.FC = () => {
               {/* Contact Section */}
               <section className="bg-slate-50 rounded-xl p-6 border border-slate-100">
                 <h2 className="text-xl font-bold text-slate-900 mb-4">Kontakt</h2>
-                <div className="flex flex-col sm:flex-row gap-6">
+                <div className="flex flex-col sm:flex-row gap-6 flex-wrap">
                   <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 bg-sky-100 rounded-lg flex items-center justify-center">
+                    <div className="w-10 h-10 bg-sky-100 rounded-lg flex items-center justify-center flex-shrink-0">
                       <svg className="w-5 h-5 text-sky-700" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor">
                         <path strokeLinecap="round" strokeLinejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
                       </svg>
@@ -93,14 +93,26 @@ const AutorSeite: React.FC = () => {
                     </div>
                   </div>
                   <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 bg-sky-100 rounded-lg flex items-center justify-center">
+                    <div className="w-10 h-10 bg-sky-100 rounded-lg flex items-center justify-center flex-shrink-0">
                       <svg className="w-5 h-5 text-sky-700" fill="currentColor" viewBox="0 0 24 24">
                         <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
                       </svg>
                     </div>
                     <div>
                       <p className="text-xs text-slate-500 font-medium">LinkedIn</p>
-                      <a href="https://www.linkedin.com/in/thomas-sander-smv/" target="_blank" rel="noopener noreferrer" className="text-sky-600 hover:text-sky-700 font-medium text-sm">LinkedIn-Profil</a>
+                      <a href="https://de.linkedin.com/in/thomas-sander-520676303" target="_blank" rel="noopener noreferrer" className="text-sky-600 hover:text-sky-700 font-medium text-sm">LinkedIn-Profil</a>
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-3">
+                    <div className="w-10 h-10 bg-sky-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <svg className="w-5 h-5 text-sky-700" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" />
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" />
+                      </svg>
+                    </div>
+                    <div>
+                      <p className="text-xs text-slate-500 font-medium">Adresse</p>
+                      <p className="text-sm text-slate-700">Schliemannstr. 23, 10437 Berlin</p>
                     </div>
                   </div>
                 </div>
